@@ -1,0 +1,16 @@
+# Generated maps and charts
+*.html
+*.png
+
+# Ride data files (inputs, not tracked)
+*.gpx
+*.GPX
+*.fit
+*.FIT
+
+# Editor settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
